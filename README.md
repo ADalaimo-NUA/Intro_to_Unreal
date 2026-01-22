@@ -10,7 +10,7 @@ If you would like to download each workshop files seperately, navigate to the ac
 Project files will contain all BPs with commented code to reflect what was represented during the session. 
 
 Add to these files to make it your own! 
-OR, scrape the things you like fom these to add to your own projects and make them better!
+OR, scrape the things you like from these to add to your own projects and make them better!
 
 Best,
 Andy
