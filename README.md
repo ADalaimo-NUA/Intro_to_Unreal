@@ -1,7 +1,10 @@
-# Intro to Unreal 
+# Unreal Engine 5 - Intro to Unreal Engine 
 
-## Slides accompanying workshops will be located on the VLE, on the Programming and coding page. 
+## Slides accompanying workshops will be on the VLE: Programming and coding page located in the Technical Facilities & Resources tab. 
 
+<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/244c2235-135d-4138-91b3-9e2b6cadafed" />
+<br />
+<br />
 Each branch will accompany that week's dedicated slide deck. With the Main branch being updated throughout to have all project code reflected together. 
 
 ### Start of Workshop
@@ -12,5 +15,5 @@ Project files will contain all BPs with commented code to reflect what was repre
 Add to these files to make it your own! 
 OR, scrape the things you like from these to add to your own projects and make them better!
 
-Best,
+Best,<br />
 Andy
