@@ -8,7 +8,7 @@
 Each branch will accompany that week's dedicated slide deck. With the Main branch being updated throughout to have all project code reflected together. 
 
 ### Current Lesson --> [[09] Gameplay Framework](https://github.com/ADalaimo-NUA/Intro_to_Unreal/tree/09_Gameplay_Framework)
-### In Development --> [10] Data Containers & Latent Nodes 
+### In Development --> [11] Maths, Macros & Function Libs
 
 ### Start of Workshop
 
