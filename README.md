@@ -7,7 +7,7 @@
 <br />
 Each branch will accompany that week's dedicated slide deck. With the Main branch being updated throughout to have all project code reflected together. 
 
-### Current Lesson --> [[12] Debugging and Profiling](https://github.com/ADalaimo-NUA/Intro_to_Unreal/tree/12_Debugging_and_Profiling)
+### Current Lesson --> Finished Workshop Series
 ### In Development --> Quality of life fixes and updates
 
 ### Start of Workshop
