@@ -12,7 +12,7 @@ Each branch will accompany that week's dedicated slide deck. With the Main branc
 
 ### Start of Workshop
 
-If you would like to download each workshop files seperately, navigate to the according *branch* and download the zipped file of those project files. 
+If you would like to download each workshop files separately, navigate to the according *branch* and download the zipped file of those project files. 
 Project files will contain all BPs with commented code to reflect what was represented during the session. 
 
 Add to these files to make it your own!.
